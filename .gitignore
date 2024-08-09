@@ -1,0 +1,4 @@
+# ignore ALL files in any folder mentioned below
+config/
+__pycache__/
+
